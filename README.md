@@ -4,7 +4,7 @@ A responsive NGO awareness platform designed to promote social impact initiative
 
 ## 🌐 Live Demo
 
-https://whimsical-axolotl-96357b.netlify.app/
+https://whimsical-axolotl-96357b.netlify.app
 
 ---
 
@@ -32,11 +32,11 @@ https://whimsical-axolotl-96357b.netlify.app/
 
 ## 🚀 Deployment
 
-This project is deployed using Vercel.
+This project is deployed using NETLIFY.
 
 Live Website:
 
-https://whimsical-axolotl-96357b.netlify.app/
+https://whimsical-axolotl-96357b.netlify.app
 
 ---
 
